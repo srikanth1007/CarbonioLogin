@@ -1,0 +1,18 @@
+# SPDX-FileCopyrightText: 2022 Zextras <https://www.zextras.com>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+/.idea/
+/.idea/sonarlint/
+/artifacts/
+/node_modules/
+/pkg/
+/build/
+/.idea/workspace.xml
+/coverage/
+/junit.xml
+/.npmrc
+/dist
+LICENSES/*
+
+.DS_Store
